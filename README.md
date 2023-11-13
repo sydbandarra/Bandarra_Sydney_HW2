@@ -29,7 +29,7 @@
  ![twice_banner](images/twice.jpg)
 
 **Magne:** Kenji Hikiishi
- 
+
  ![magne_banner](images/magne.jpg)
 
  
@@ -57,8 +57,6 @@ School of Digital and Performing Arts
 
 Student #: 1204224
 s_bandarra@fanshaweonline.ca
-Fwd: Personal Email: svabandarraurg@gmail.com
-T: 5196946415
 www.fanshawec.ca 
 
 ### Land Acknowledgement 
