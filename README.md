@@ -48,12 +48,17 @@ Version history is documented through GitHub best practices.
 **Syd (Sydney) Bandarra** (they/them)
 
 Student at Fanshawe College, Interactive Media Design, IDP, Fall 2023
+
 Faculty of Creative Industries,
+
 School of Digital and Performing Arts
+
 137 Dundas Street, London, ON N6A 1E9
 
 Student #: 1204224
+
 s_bandarra@fanshaweonline.ca
+
 www.fanshawec.ca 
 
 ### Land Acknowledgement 
