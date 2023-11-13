@@ -9,22 +9,22 @@
  ## Meet the League of Villains: Vangaurd Action Squad
 
  **Dabi:** Touya Todoroki
- ![dabi_banner](images\dabi.jpg)
+ ![dabi_banner](images/dabi.jpg)
 
 **Toga:** Himiko Toga
- ![himiko_toga_banner](images\himiko_toga.jpg)
+ ![himiko_toga_banner](images/himiko_toga.jpg)
 
 **Shigaraki:** Tomura Shigaraki
- ![tomura_shigaraki_banner](images\tomura_shigaraki.jpg)
+ ![tomura_shigaraki_banner](images/tomura_shigaraki.jpg)
 
 **Mr. Compress:** Atsuhiro Sako
- ![mr_compress_banner](images\mr_compress.jpg)
+ ![mr_compress_banner](images/mr_compress.jpg)
 
 **Twice:** Jin Bubaigawara
- ![twice_banner](images\twice.jpg)
+ ![twice_banner](images/twice.jpg)
 
 **Magne:** Kenji Hikiishi 
- ![magne_banner](images\magne.jpg)
+ ![magne_banner](images/magne.jpg)
 
  
 ### Installation
