@@ -2,7 +2,7 @@
 ## Welcome to My Respository: My Villain Academia
  **HW #2 – CHARACTER BUILD (CSS SELECTION AND STYLES)**
 
-![league_of_villains_banner](images\lov_BG_1200.jpg)
+![league_of_villains_banner](../images/lov_BG_1200.jpg)
 images\lov_BG_1200.jpg
  This is a GitHub Repo for the Multi-Media Authouring MMED-1054 Homework #2 - CHARACTER BUILD (CSS SELECTION AND STYLES).
 
