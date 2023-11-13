@@ -56,7 +56,9 @@ School of Digital and Performing Arts
 137 Dundas Street, London, ON N6A 1E9
 
 Student #: 1204224
+
 s_bandarra@fanshaweonline.ca
+
 www.fanshawec.ca 
 
 ### Land Acknowledgement 
