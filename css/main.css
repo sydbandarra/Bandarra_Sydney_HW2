@@ -1,3 +1,181 @@
 .hidden {
     display: none
 }
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #9B00B8;
+    padding: 10px 0;
+}
+
+.characters li a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.characters  {
+    list-style-type: none;
+    padding: 0;
+    display: flex; 
+    justify-content: center; 
+    flex-wrap: wrap;
+}
+
+.characters li {
+    height: 220px;
+    margin: 10px 8px;
+    text-align: left;
+    cursor: pointer;
+    box-shadow: 0 155px 0 #9B00B8 inset; 
+    transition: box-shadow .2s ease; 
+} 
+
+.characters li:hover {
+    box-shadow: 0 220px 0 #9B00B8 inset; 
+}
+
+.characters li h5 {
+   color: white; 
+}
+
+#main-logo {
+    width: 300px;
+    display: block;
+    margin: 0 auto; 
+    box-shadow: 5px 5px 5px rgba(0,0,0,.3); 
+}
+
+#character_nav {
+    background-color: #ad76b7;
+    background-image: url('../images/lov_BG_1200.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-blend-mode: multiply;
+}
+
+article, #instructions {
+    padding: 20px;
+}
+
+article h3, #instructions {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+article p, #instructions p {
+    font-size: 18px;
+    text-align: center;
+}
+.sprite { 
+    width: 150px;
+    height:150px;
+    background-image: url('../images/lov_sprite_sheet.jpg'); 
+}
+
+#toga {background-position: -150px 0;}
+#shigaraki {background-position: -300px 0;}
+#compress {background-position: -450px 0;}
+#twice {background-position: -600px 0;}
+#magne {background-position: -750px 0;}
+
+#dabi:hover, #toga:hover, #shigaraki:hover, #compress:hover, #twice:hover, #magne:hover {
+background-position-y: -150px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.sticky_footer {
+    height: 80px;
+    background-color: #ad76b7;
+    position: sticky;
+    top: 100%;
+}
+
+.lightbox {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100vw; 
+    height: 100vh; 
+
+    background-color: rgba(0,0,0,0.85); 
+    background-image: url('../images/dabi_LB.png'); 
+    background-repeat: no-repeat; 
+
+        background-size: 55vh;
+        background-position: 40px bottom;
+        display: none; 
+}
+
+#lightbox2 {
+    background-image: url('../images/himiko_toga_LB.png'); 
+}
+
+#lightbox3 {
+    background-image: url('../images/tomura_shigaraki_LB.png'); 
+}
+
+#lightbox4 {
+    background-image: url('../images/mr_compress_LB.png'); 
+}
+
+#lightbox5 {
+    background-image: url('../images/twice_LB.png'); 
+}
+
+#lightbox6 {
+    background-image: url('../images/magne_LB.png'); 
+}
+
+.lightbox_close /*style the x*/ {
+    position: absolute;
+    top: 20px; /*positions the x 20px down from the top of the page*/
+    right: 5%; /*positions the x 5% from the right of the farthest edge of the browser*/
+
+    color: white;
+    font-size: 36px;
+
+    text-decoration: none;
+    font-weight: bolder;
+
+    transition: all .5s ease-in-out; /*specifies a transition and setting the duration and ease setting*/
+}
+
+.lightbox_close:hover {
+    opacity: 0.5;
+    color: red;
+}
+
+.lightbox article {
+    width: 55%;
+    margin-left: 40%; /*percentage values are more fluid and responsive than px values because it creates relative points to the browser window. ie. if you shrink the browser, it will maintain 40% margin-left*/
+    padding-top: 50px;
+}
+
+.lb_text, .lb_heading /*style the lightbox text and headings, ovveride the previous styling*/ {
+    text-align: left;
+}
+
+.lb_text {
+    line-height: 26px;
+}
+
+.lightbox:target /* allows the user to click on the anything with the class and id of lightbox will show the lightbox*/ {
+    display: block;
+}
