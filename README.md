@@ -75,5 +75,8 @@ Images sourced from:
 - https://www.cbr.com/my-hero-academia-my-villain-academia-arc-league-of-villains/
 - https://www.reddit.com/r/BokuNoHeroAcademia/comments/r0za4w/my_villian_academia_logo_png_transparent/?rdt=38321
 
+Lightbox Text Sourced From:
+https://www.cbr.com/my-hero-academia-villains-strength-ranked/
+
 ### License
 MIT License
